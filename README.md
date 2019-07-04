@@ -54,6 +54,3 @@ Absences attested by the International Code of Diseases (ICD) stratified into 21
 19. Height
 20. Body mass index
 21. Absenteeism time in hours (target)
-
-### Major Hint about the project - 
-​The problem statement looks like a time-series problem, But it is not the only solution. It can also be solved using the techniques taught to you in the curriculum. You are required to select the suitable technique yourself.
